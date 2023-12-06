@@ -48,5 +48,8 @@ public class Main {
             broj1 ++;
         }
 
+        //nizovi
+        int [] nizovi = new int [5];
+        System.out.println(nizovi);
     }
 }
